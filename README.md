@@ -5,4 +5,5 @@ You can think of this as a keybind for spesific actions without having to click 
 
 | file name | stands for | description |
 | - | - | - |
-| ocwd.bat [src](https://github.com/Jawschamp/Jaws-Bat-Tools/blob/main/Bat%20Tools/ocwd.bat) | open current working directory | empty |
+| ocwd.bat [src](https://github.com/Jawschamp/Jaws-Bat-Tools/blob/main/Bat%20Tools/ocwd.bat) | open current working directory | Whatever directory you're currenly in (``cd {dir}``) it will open that said folder |
+| cf.bat [src](https://github.com/Jawschamp/Jaws-Bat-Tools/blob/main/cr.bat) | create file | Create a file via filename | 
