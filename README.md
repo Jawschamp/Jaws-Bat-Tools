@@ -1,4 +1,4 @@
-# Bat Tools
+# Simp-Bat-Tools
 
 Is a list of files that make naviagting mostly with Command Prompt a lot less clunky and more efficient
 You can think of this as a keybind for spesific actions without having to click that menu (if it's even a thing).
